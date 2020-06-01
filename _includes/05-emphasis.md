@@ -1,1 +1,1 @@
-I like to <b>code</b> and do <i>design</i>
+I like to **code** and do _design_
